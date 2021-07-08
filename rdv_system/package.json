@@ -1,0 +1,24 @@
+{
+  "name": "rdv_system",
+  "version": "1.0.0",
+  "description": "systeme de rendez-vous",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mednajjar/rdv_system.git"
+  },
+  "keywords": [
+    "react-native",
+    "node.js",
+    "express.js"
+  ],
+  "author": "Med-Najjar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mednajjar/rdv_system/issues"
+  },
+  "homepage": "https://github.com/mednajjar/rdv_system#readme"
+}
